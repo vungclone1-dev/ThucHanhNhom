@@ -1,0 +1,10 @@
+ Mục tiêu
+Sau bài thực hành này, sinh viên sẽ:
+• Tạo repository Git trên GitHub đúng chuẩn
+• Thực hiện đầy đủ 12 thao tác Git quan trọng
+• Hiểu và thực hành workflow theo nhóm
+• Xử lý xung đột merge (merge conflict)
+• So sánh phiên bản, rollback, tạo nhánh mới
+• Thực hành pull request, code review
+• Thiết lập .gitignore
+• Áp dụng Git trong một dự án thực tế nhỏ
